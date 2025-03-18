@@ -22,8 +22,8 @@ Use cv2.imshow to show the video
 End the program and close the output video window by pressing 'q'.
 ## Program:
 ``` Python
-### Developed By:Midhun S
-### Register No:212223240087
+### Developed By:Murali Krishna S
+### Register No:212223230129
 
 ## i) Write the frame as JPG file
 import cv2
